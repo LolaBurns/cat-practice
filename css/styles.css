@@ -1,0 +1,22 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h3 {
+  font-style: italic;
+  color: purple;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: monospace;
+  font-family: fantasy;
+  }
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: fantasy;
+}
